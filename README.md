@@ -12,3 +12,7 @@ This Objective-C template creates a protocol with a corresponding default "proxy
 ### Enum Class
 
 This Objective-C template creates a enum with a corresponding class, which can translate enum values to their string representation (and vice versa). Thanks to second-orded macros the list of item has to be changed only once.
+
+### Thanks
+
+Templates created thanks to the https://littlebitesofcocoa.com/89-custom-xcode-file-templates. Also icon is stolen from there...
